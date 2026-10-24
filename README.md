@@ -14,5 +14,5 @@ This project is a high-performance, real-time analytics dashboard designed to pr
 3. **Secure API Endpoints:** Robust backend routing to ensure data integrity and secure transactions.
 
 ## Project Details
-- **Timeline:** 4 weeks
+- **Timeline:** 4 weeks it might change
 - **Budget:** $2,500 USD
